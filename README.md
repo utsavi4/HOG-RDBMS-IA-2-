@@ -1,3 +1,11 @@
+# PERSONAL DETAILS:
+
+NAME: UTSAVI JITEN VISARIA
+CLASS: SY / SEM(4)
+COURSE: RDBMS
+FACULTY NAME: PROF.VAIBHAV VASANI/ PROF.PRADNYA BHANGALE
+COLLEGE NAME: K.J.SOMAIYA.COLLEGE OF ENGINEERING
+
 # HOG-RDBMS-IA-2-
 
 This repository contains code for facial recognition based on histogram of gradients method using openCV, dlib, face-recognition, scikit-image, numpy and other libraries in python. If you want to test the code then run recognition.py file which is the main file that recognizes your face.
